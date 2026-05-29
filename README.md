@@ -21,9 +21,14 @@ Moreover, when compared to models trained on all datasets simultaneously, our fr
 ## Datasets
 NetFlow v3 published at https://staff.itee.uq.edu.au/marius/NIDS_datasets/
 
-## Files
+## Files and Directory structure
+Files over 25 Mb are zipped.
+Directory structure:
+- linux: files used for running the experiment on linux environment
+- resultados: output from experiment and graphs
+- apoio: Jupyter Notebooks used to process output files creating graphs and bringing insights 
 
-
+Main file to run the experiment: \linux\python\experimentos_v12.py
 
 ## Citation
 Article proposed at IEE Globecom 2026
