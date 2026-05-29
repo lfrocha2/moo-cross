@@ -18,8 +18,12 @@ Using a genetic search-based approach, our method evaluates each candidate solut
 Experimental results on three benchmark NetFlow datasets show that our approach improves cross-dataset F1 Scores by up to 0.74 compared to traditional single-domain training.
 Moreover, when compared to models trained on all datasets simultaneously, our framework increases the average F1-Score by 0.15, demonstrating enhanced generalization across domains.</p> 
 
+## Proposal
+<img width="1431" height="622" alt="image" src="https://github.com/user-attachments/assets/700f0910-17af-4471-bcce-c1ce4395ef39" />
+
 ## Datasets
-NetFlow v3 published at https://staff.itee.uq.edu.au/marius/NIDS_datasets/
+NetFlow v3: NF-ToN-IoT-v3, NF-CSE-CIC-IDS-v3 and NF-BoT-IoT-v3  
+They were published at https://staff.itee.uq.edu.au/marius/NIDS_datasets/
 
 ## Files and Directory structure
 Files over 25 Mb are zipped.  
